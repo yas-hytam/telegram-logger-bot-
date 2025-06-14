@@ -4,7 +4,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, CallbackQueryHandler, ContextTypes, filters
 
 # ganti token bot lu di sini
-BOT_TOKEN = 'ISI_TOKEN_BOT_DISINI'
+BOT_TOKEN = '7939205172:AAHG3Tln0Ti9ML2RDNfYliyH9bC1oy7RvqM'
 
 # UID yang diizinkan
 VALID_UIDS = ['UID1112', 'UID1807']
